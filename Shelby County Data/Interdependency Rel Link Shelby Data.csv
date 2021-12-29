@@ -1,0 +1,10 @@
+power_dist,water_gen,connected,type_x,type_y
+10,4,1,Large_pumps,23kv_substations
+16,5,1,Large_pumps,23kv_substations
+25,12,1,Large_pumps,23kv_substations
+27,2,1,Large_pumps,12kv_substations
+28,3,1,Large_pumps,12kv_substations
+32,6,1,Large_pumps,12kv_substations
+36,8,1,Large_pumps,12kv_substations
+37,9,1,Large_pumps,12kv_substations
+41,39,1,Large_pumps,12kv_substations
